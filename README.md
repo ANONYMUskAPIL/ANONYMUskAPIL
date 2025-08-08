@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I'm Kapil Dhungana (aka ANONYMUskAPIL)
 
-<!--
-**ANONYMUskAPIL/ANONYMUskAPIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Web Development, AI, and Problem Solving  
+🌱 Currently learning Full-Stack Development (HTML, CSS, JavaScript)  
+🛠 Working on: Blood Bank Management System Website  
+📚 Exploring frameworks and backend tools step-by-step  
+🎯 Goal: Build meaningful projects and sharpen my development skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- 💻 HTML | CSS | JavaScript
+- 🌐 GitHub | VS Code | Figma
+- 🤖 Learning AI, ML, and Backend Dev
+- 🔹 UI/UX: Figma, Responsive Design
+
+
+---
+
+### 💼 Projects
+| Name                    | Description                                |
+|-------------------------|--------------------------------------------|
+| Symptom Checker         | A health checker with simple web design    |
+| Frontend Template       | Clean HTML/CSS boilerplate layout          |
+| Future Transport        | Concept project from hackathon             |
+
+---
+
+### 📫 Let's Connect!
+- Email: kapildhungana333@gmail.com
+- Discord: l_lore
+- GitHub: [@ANONYMUskAPIL](https://github.com/ANONYMUskAPIL)
+
+---
+
+### ⚡ Fun Fact
+I sometimes code all night, then go swimming in the morning 😎
