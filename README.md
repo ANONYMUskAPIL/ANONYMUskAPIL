@@ -2,7 +2,6 @@
 
 🚀 Passionate about Web Development, AI, and Problem Solving  
 🌱 Currently learning Full-Stack Development (HTML, CSS, JavaScript)  
-🛠 Working on: Blood Bank Management System Website  
 📚 Exploring frameworks and backend tools step-by-step  
 🎯 Goal: Build meaningful projects and sharpen my development skills
 
